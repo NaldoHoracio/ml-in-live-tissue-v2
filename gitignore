@@ -1,0 +1,17 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Diretorios e outros arquivos
+data/data-raw/
+data/data-selected/
+#*.txt
+#*.csv
